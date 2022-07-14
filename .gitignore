@@ -1,0 +1,9 @@
+# folders
+node_modules
+views/public
+
+# env files
+config.env
+
+# package-lock.json file
+package-lock.json
